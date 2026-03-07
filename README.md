@@ -1,5 +1,5 @@
 # JFramery &nbsp;<img src="assets/jframery.png" width="40" style="vertical-align: middle;" />
-Three simple java minigames using jframes<br>
+Three simple java minigames using [jframes](https://www.geeksforgeeks.org/java/java-jframe/)<br>
 (JFrames + Tomfoolery = JFramery)
  
 ## Details 
@@ -13,7 +13,7 @@ Three simple java minigames using jframes<br>
 - *Netbeans IDE (if you wanna build it yourself)*
 
 ## How to Run
-1. Download the `JFramery Playable` zip file from releases
+1. Download `JFramery-Playable.zip` from [releases](https://github.com/pierretek/JFramery/releases/tag/playable)
 2. Extract it and open the folder in a terminal
 3. Run ``java -jar JFramery.jar`` to run the jar file
 4. Enjoy!
@@ -40,9 +40,9 @@ This program has a total of three playable minigames: <br>
 #### Window Survivor
 - A red window will follow your cursor, and randomly placed windows will fall accross the screen
 - Navigate the red window between the falling cascade of obstacles!
-- *Tip: Avoid the white windows at all costs*
-> [!WARNING]
-> This game might get a little laggy depending on your computer
+- *Tip: Avoid the white windows at all costs* <br>
+> [!WARNING] 
+> **Window Survivor** might get a little laggy depending on your computer
 
 ---
 
