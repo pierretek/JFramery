@@ -1,5 +1,6 @@
-<h1>JFramery  <img src="https://github.com/user-attachments/assets/239619e9-15e0-4027-80a4-1dcd22a61de1" width="40" height="40" align="top" /></h1>
-Three simple java minigames using [jframes](https://www.geeksforgeeks.org/java/java-jframe/)<br>
+# JFramery &nbsp; <img src="https://github.com/user-attachments/assets/239619e9-15e0-4027-80a4-1dcd22a61de1" width="40" height="40" align="top" />
+
+Three simple java minigames using [jframes](https://www.geeksforgeeks.org/java/java-jframe) <br>
 (JFrames + Tomfoolery = JFramery)
 
 ## Details 
